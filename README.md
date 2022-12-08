@@ -13,7 +13,8 @@ In this case, 4 different methods namely:
 
 wwre used to validate the efficiencies of the methods. Theoritically, the expected performance was ranked in the order Random Search (worst) < RMHC < Beam Search < Genetic Algorithm (best) and the results from the code also seem to prove them. 
 
-**Performance Plots**
+## Performance Plots
+
 The performance charts can be seen below:
 
 <u>**NOTE:**</u> The following results are for a dataset of 1000 points(or cities)
