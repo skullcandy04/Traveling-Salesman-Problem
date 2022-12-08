@@ -15,3 +15,12 @@ was performed to validate the efficiencies of the methods. Theoritically, the ex
 
 The performance charts can be seen below:
 
+Fitness = -(best path length)
+
+[Random Search](images/RandomSearch_Fitness.png)
+
+[RMHC](images/RMHC_Fitness.png)
+
+[Beam Search](images/BeamSearch_Fitness.png)
+
+[GA](images/GA_Fitness.png)
