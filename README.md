@@ -15,7 +15,7 @@ was performed to validate the efficiencies of the methods. Theoritically, the ex
 
 The performance charts can be seen below:
 
-Fitness = -(best path length)
+*Fitness = -(best_path_length)*
 
 <p align="center">
     <img src="/images/RandomSearch_Fitness.png" title="Random Search">
@@ -27,10 +27,8 @@ Fitness = -(best path length)
 
 <p align="center">
     <img src="/images/BeamSearch_Fitness.png" title="Beam Search">
-    Beam Search Fitness
 </p>
 
 <p align="center">
     <img src="/images/GA_Fitness.png" title="GA Search">
-    GA Fitness
 </p>
