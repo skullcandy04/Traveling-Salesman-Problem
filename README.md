@@ -17,22 +17,20 @@ The performance charts can be seen below:
 
 Fitness = -(best path length)
 
-<p aligh="center">
-    <img src="/images/RandomSearch_Fitness.png" alt="Alt text" title="Random Search">
-    Random Search Fitness
+<p align="center">
+    <img src="/images/RandomSearch_Fitness.png" title="Random Search">
 </p>
 
-<p aligh="center">
-    <img src="/images/RHMC_Fitness.png" alt="Alt text" title="RHMC">
-    RHMC
+<p align="center">
+    <img src="/images/RMHC_Fitness.png" title="RHMC">
 </p>
 
-<p aligh="center">
-    <img src="/images/BeamSearch_Fitness.png" alt="Alt text" title="Beam Search">
+<p align="center">
+    <img src="/images/BeamSearch_Fitness.png" title="Beam Search">
     Beam Search Fitness
 </p>
 
-<p aligh="center">
-    <img src="/images/GA_Fitness.png" alt="Alt text" title="GA Search">
+<p align="center">
+    <img src="/images/GA_Fitness.png" title="GA Search">
     GA Fitness
 </p>
