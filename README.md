@@ -17,6 +17,8 @@ The performance charts can be seen below:
 
 Fitness = -(best path length)
 
+<p aligh="center"><img src="/images/RandomSearch_Fitness.png" alt="Alt text" title="Random Search"></p>
+
 [Random Search](images/RandomSearch_Fitness.png)
 
 [RMHC](images/RMHC_Fitness.png)
